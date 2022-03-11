@@ -7,10 +7,10 @@ Scrum Team Github Repo: https://github.com/nadirahaddach/TheSlayers
 ## Web Project 
 
 ### Project Description 
-A collection of minilabs with descriptions behind it
+A collection of minilabs with descriptions behind it. So far, we plan to use a random password generator, find your counselor form, binary search project, and calculator. We want to highlight key collegeboard topics such as procedural abstraction (print function), lists (find your counselor form), conditonals (password generator), and more. 
 
 ### Project Plans/Ideas/Wires
-We plan to utilize Katie's first trimester random password generator and have a section on our website that explains the code behind it. After this, we plan to make other minilabs and explain the code behind those so users can discover the process behind the webise. 
+We plan to utilize Katie's first trimester random password generator as well as similar PBL projects with parallel sections on our website that explains the code behind them. Some of these ideas include redoing and reusing Gabriel's Binary Search project 
 
 ### Time box
 
@@ -34,3 +34,4 @@ We plan to utilize Katie's first trimester random password generator and have a 
 
 ## Sponsor 
 Mr. Mortensen is our sponsor. Our website will somewhat be a Nighthawk Coding Society 2.
+

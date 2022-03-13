@@ -107,7 +107,6 @@ img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="
 
 ### Full rgb.html File Code:
 ```
-{% extends "layouts/base.html" %}
 
 {% block body %}
 <body>

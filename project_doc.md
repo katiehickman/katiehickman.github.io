@@ -6,7 +6,7 @@
 
 ### [Replit Runtime!](https://replit.com/@katiehickman270/menupy#main.py)
 
-## Code :)
+## Code Snippets 
 
 ### Swap
 ```

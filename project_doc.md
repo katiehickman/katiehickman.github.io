@@ -4,7 +4,7 @@
 
 ### [Python Coding Challenge Files in Github](https://github.com/katiehickman/katiehickman.github.io/tree/main/python_challenges)
 
-### [Replit Runtime!](https://replit.com/@katiehickman270/menupy#main.py)
+### [Replit Runtime!](https://replit.com/@katiehickman270/katiehickmangithubio#python_challenges/menu_challenge.py)
 
 ## Code Snippets 
 

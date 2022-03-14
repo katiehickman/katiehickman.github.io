@@ -8,3 +8,6 @@ def christmas():
         print(center_star)
     print('        ||||')
     print('        ||||')
+
+# if __name__ == "__main__":
+ #   christmas()

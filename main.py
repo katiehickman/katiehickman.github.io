@@ -14,16 +14,16 @@ import cat
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
 main_menu = [
-    ["Keypad", exec(open("keypad.py").read())],
-    ["Swap", exec(open("swap.py").read())],
-    ["Christmas", exec(open("christmas.py").read())],
+    ["Keypad", exec(open("python_challenges/keypad.py").read())],
+    ["Swap", exec(open("python_challenges/swap.py").read())],
+    ["Christmas", exec(open("python_challenges/christmas.py").read())],
 ]
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["Ship", exec(open("ship.py").read())],
-    ["Cat", exec(open("cat.py").read())],
+    ["Ship", exec(open("python_challenges/ship.py").read())],
+    ["Cat", exec(open("python_challenges/cat.py").read())],
 ]
 
 #patterns_sub_menu = [
@@ -85,7 +85,7 @@ def buildMenu(banner, options):
         try:
             # try as function
             action = prompts.get(choice)[1]
-            action()
+           # action()
         except TypeError:
             try:  # try as playground style
                 exec(open(action).read())

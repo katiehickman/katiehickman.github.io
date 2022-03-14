@@ -22,6 +22,7 @@ main_menu = [
 # Works similarly to main_menu
 sub_menu = [
     ["Ship", exec(open("ship.py").read())],
+    ["Cat", exec(open("cat.py").read())],
 ]
 
 #patterns_sub_menu = [

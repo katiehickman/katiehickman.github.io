@@ -6,6 +6,7 @@ import christmas
 import keypad
 import ship
 import swap
+import cat
 
 
 # Main list of [Prompts, Actions]

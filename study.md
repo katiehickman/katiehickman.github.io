@@ -61,3 +61,54 @@ Someone who is empowered can help someone who is not empowered by lending them s
 **Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?**
 
 Red tape is blocking digital empowerment. At Del Norte, I would say that there are very few barriers because we have a lot of access to the internet and technology. For instance, in our computer science classroom, we have extra computers that aren't even in use. I would say that there are barriers elsewhere becasue some areas lack sufficient technology supplies to become digitally empowered. 
+
+## 5.3
+### Notes
+- Computing Bias
+- - Netflix
+- - - Explicit Data
+- - - - Thumbs
+- - - - Name, Address, etc.
+- - - Implicit Data
+- - - - When you watch
+- - - - What you binge(d)
+- - - - Style of show frequently selected
+- - - Bias
+- - - - Netflix exclusive features are ahead of most
+- - - - Subscriptions
+- - Hypotherical Loan Compay
+- - - Creating software to assist loan officers
+- - - Find trends in successful loans
+- - - Reject those who don’t fit their trends:
+- - - - Age
+- - - - Gender
+- - - - Race/ethnicity
+- - Biases can be embedded at all levels of software development
+- - - All software can be biased (intentionally or unintentionally)
+- - - - Casual vs Sweaty
+- - - - Youtube kids
+- - - - Facebook vs Instagram vs Snapchat/TikTok
+- - - - WeChat/KakaoTalk
+- - - Questions to ask about bias:
+- - - - Enhancing or intentionally excluding?
+- - - - Intentionally hateful/harmful?
+- - - - Receiving feedback from a wide variety of people?
+- - - Google home/amazon echo
+
+### Questions
+**Watch the video... [HP computers are racist](https://www.youtube.com/watch?v=t4DT3tQqgRM)**
+
+**Come up with some thoughts on the video and be ready to discuss them as I call on you. Here are some ideas...**
+
+**Does the owner of the computer think this was intentional?**
+
+**If yes or no, justify you conclusion.**
+
+**How do you think this happened?**
+
+**Is this harmful? Was it intended to be harmful or exclude?**
+
+**Should it be corrected?**
+
+**What would you or should you do to produce a better outcome?**
+

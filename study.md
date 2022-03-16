@@ -112,3 +112,23 @@ Red tape is blocking digital empowerment. At Del Norte, I would say that there a
 
 **What would you or should you do to produce a better outcome?**
 
+## 5.4
+### Notes
+- Crowdsourcing: where individuals obtain goods/information from a service of a large amount of people
+- - Public Data Sets
+- - - Kaggle
+- - - Google Public Datasets
+- - - Data.gov
+- - - Your local government
+- - Distributed Computing
+- - - Donate spare computer power to help calculations
+- - Innovations made possible
+- - - Spotify
+- - - - Collaborative playlists
+- - - - Algorithm 
+- - - - Meta-data write in
+
+### Questions
+**CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?**
+
+**What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?**

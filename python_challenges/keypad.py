@@ -10,3 +10,6 @@ def keypad():
     numbers = ['1 2 3','4 5 6','7 8 9','  0  ']
     key_pad = '\n'.join(numbers)
     print(key_pad)
+
+# if __name__ == "__main__":
+#   christmas()

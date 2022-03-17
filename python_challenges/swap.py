@@ -8,3 +8,5 @@ number2 = int(input(" Please Enter the Second number : "))
 print("Before Swap",(number1, number2))
 swap(number1, number2)
 
+#if __name__ == "__main__":
+ #   swap()

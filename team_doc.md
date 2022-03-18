@@ -25,4 +25,5 @@ Mr. Mortensen is our sponsor. Our website will somewhat be a Nighthawk Coding So
 
 ### [Scrum Board](https://github.com/nadirahaddach/TheSlayers.github.io/projects/1)
 ### [Github Repository](https://github.com/nadirahaddach/TheSlayers.github.io)
+### [Github Pages](https://nadirahaddach.github.io/TheSlayers.github.io/)
 

@@ -6,16 +6,16 @@ main_menu = []
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu1 = [
-    ["Swap", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/swap.py"],
-    ["Keypad", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/keypad.py"],
-    ["Christmas Tree", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/christmas.py"],
-    ["Lists and Loops", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/lists.py"],
+    ["Swap", "python_challenges/swap.py"],
+    ["Keypad", "python_challenges/keypad.py"],
+    ["Christmas Tree", "python_challenges/christmas.py"],
+    ["Lists and Loops", "python_challenges/lists.py"],
 
 ]
 
 sub_menu2 = [
-    ["Cat", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/cat.py"],
-    ["Ship", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/ship.py"],
+    ["Cat", "python_challenges/cat.py"],
+    ["Ship", "python_challenges/ship.py"],
 
 ]
 # Menu banner is typically defined by menu owner

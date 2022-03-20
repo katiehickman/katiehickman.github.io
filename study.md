@@ -102,15 +102,27 @@ Red tape is blocking digital empowerment. At Del Norte, I would say that there a
 
 **Does the owner of the computer think this was intentional?**
 
+No, I believe the owner of the computer doesn't think this was intentional, but he wants to bring light to the exclusion he's facing. 
+
 **If yes or no, justify you conclusion.**
 
+I think no because I believe the compuuter owner thinks that HP didn't conduct enough testing on different types of people rather than HP being racist. 
+ 
 **How do you think this happened?**
+
+I think this happened because HP didn't test their camera software with a diverse group of people. This is what led to the software only working on lighter skin tones. 
 
 **Is this harmful? Was it intended to be harmful or exclude?**
 
+Yes, this is very harmful. I believe it wasn't intended to be harmful or to exclude, but it ended up excluding a large group of people just becausue of their skin color.
+
 **Should it be corrected?**
 
+Yes, this error should be corrected so that HP computers are inclusuive of all users. 
+
 **What would you or should you do to produce a better outcome?**
+
+To produce a better outcome, I believe HP should test their camera software on all races and skin colors. This will ensure the software works for all different types of people, regardless of skin color. 
 
 ## 5.4
 ### Notes
@@ -131,4 +143,8 @@ Red tape is blocking digital empowerment. At Del Norte, I would say that there a
 ### Questions
 **CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?**
 
+A crowdsource idea could be determining the most popular school lunch food. I could initiate this by conducting a web survey in our classroom and then input the responses into a database. 
+
 **What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?**
+
+Yes, my final product could be better with crowdsourcing because I could get input from other students. I could also get ideas that I may have never been able to think of. 

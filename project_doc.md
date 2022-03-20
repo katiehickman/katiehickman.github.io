@@ -4,7 +4,7 @@
 
 ### [Python Coding Challenge Files in Github](https://github.com/katiehickman/katiehickman.github.io/tree/main/python_challenges)
 
-### [Replit](https://replit.com/@katiehickman270/katiehickmangithubio)
+### [Replit Menu](https://replit.com/@katiehickman270/katiehickmangithubio)
 
 <center><iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@katiehickman270/katiehickmangithubio?lite=true"></iframe></center>
 

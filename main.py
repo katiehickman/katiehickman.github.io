@@ -6,16 +6,16 @@ main_menu = []
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu1 = [
-    ["Swap", exec(open("python_challenges/swap.py").read())],
-    ["Keypad", exec(open("python_challenges/keypad.py").read())],
-    ["Christmas Tree", exec(open("python_challenges/christmas.py").read())],
-    ["Lists and Loops", exec(open("python_challenges/lists.py").read())],
+    ["Swap", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/swap.py"],
+    ["Keypad", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/keypad.py"],
+    ["Christmas Tree", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/christmas.py"],
+    ["Lists and Loops", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/lists.py"],
 
 ]
 
 sub_menu2 = [
-    ["Cat", exec(open("python_challenges/cat.py").read())],
-    ["Ship", exec(open("python_challenges/ship.py").read())],
+    ["Cat", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/cat.py"],
+    ["Ship", "/Users/KatieHickman/IdeaProjects/katiehickman.github.io/python_challenges/ship.py"],
 
 ]
 # Menu banner is typically defined by menu owner

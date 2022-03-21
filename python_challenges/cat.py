@@ -1,10 +1,11 @@
+# imports
 import time
 import os
 
 Color34 = "\u001b[34m"
 Color37 = "\u001b[37m"
 
-def cat1():
+def cat1(): # cat number 1 in the animation
     print("|\---/|")
     print("| ,_, |")
     print(" \_`_/-..----.")
@@ -13,7 +14,7 @@ def cat1():
     print("(_,...'(_,.`__)/'.....+")
     print("\u001b[34m -------------------------------------------- \u001b[37m")
 
-def cat2():
+def cat2():  # cat number 2 in the animation
     print("   |\---/|")
     print("   | ,_, |")
     print("    \_`_/-..----.")
@@ -22,7 +23,7 @@ def cat2():
     print("   (_,...'(_,.`__)/'.....+")
     print("\u001b[34m -------------------------------------------- \u001b[37m")
 
-def cat3():
+def cat3():  # cat number 3 in the animation
     print("      |\---/|")
     print("      | ,_, |")
     print("       \_`_/-..----.")
@@ -31,7 +32,7 @@ def cat3():
     print("      (_,...'(_,.`__)/'.....+")
     print("\u001b[34m -------------------------------------------- \u001b[37m")
 
-def cat4():
+def cat4():  # cat number 4 in the animation
     print("         |\---/|")
     print("         | ,_, |")
     print("          \_`_/-..----.")
@@ -40,7 +41,7 @@ def cat4():
     print("         (_,...'(_,.`__)/'.....+")
     print("\u001b[34m -------------------------------------------- \u001b[37m")
 
-def cat5():
+def cat5():  # cat number 5 in the animation
     print("            |\---/|")
     print("            | ,_, |")
     print("             \_`_/-..----.")
@@ -49,7 +50,7 @@ def cat5():
     print("            (_,...'(_,.`__)/'.....+")
     print("\u001b[34m -------------------------------------------- \u001b[37m")
 
-
+# moves the cat
 os.system("clear")
 time.sleep(.1)
 cat1()

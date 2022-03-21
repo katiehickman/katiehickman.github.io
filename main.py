@@ -1,3 +1,5 @@
+import lists
+
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
@@ -9,15 +11,19 @@ sub_menu1 = [
     ["Swap", "python_challenges/swap.py"],
     ["Keypad", "python_challenges/keypad.py"],
     ["Christmas Tree", "python_challenges/christmas.py"],
-    ["Fibonacci", "python_challenges/fib.py"],
-    ["Lists and Loops", "python_challenges/lists.py"],
-
 
 ]
 
 sub_menu2 = [
     ["Cat", "python_challenges/cat.py"],
     ["Ship", "python_challenges/ship.py"],
+
+]
+
+sub_menu3 = [
+    ["100 Fibonacci", "python_challenges/fib.py"],
+    ["Factorial", lists.tester2],
+    ["Loops", lists.tester1],
 
 ]
 # Menu banner is typically defined by menu owner
@@ -32,6 +38,7 @@ def menu():
     menu_list = main_menu.copy()
     menu_list.append(["Fun Functions", submenu1])
     menu_list.append(["Animations", submenu2])
+    menu_list.append(["Lists and Loops", submenu3])
     buildMenu(title, menu_list)
 
 # def submenu
@@ -44,6 +51,10 @@ def submenu1():
 def submenu2():
     title = "Function Submenu" + banner
     buildMenu(title, sub_menu2)
+
+def submenu3():
+    title = "Function Submenu" + banner
+    buildMenu(title, sub_menu3)
 
 def buildMenu(banner, options):
     # header for menu

@@ -26,19 +26,20 @@ def print_data(n):
     print("\t", "Animals: ", end="")  # \t is a tab indent, end="" make sure no return occurs
     print(", ".join(InfoDb[n]["Favorite_Animals"]))  # join allows printing a string list with separator
     print()
-
+print_data()
 # Hack 2: InfoDB loops. Print values from the lists using three different ways: for, while, recursion
 ## hack 2a: def for_loop()
 ## hack 2b: def while_loop(0)
 ## hack 2c : def recursive_loop(0)
 
-def tester():
+def tester1():
     print("For loop")
     for_loop()
     print("While loop")
     while_loop(0)  # requires initial index to start while
     print("Recursive loop")
     recursive_loop(0)  # requires initial index to start recursion
+tester1()
 
 # for loop iterates on length of InfoDb
 def for_loop():
@@ -67,12 +68,12 @@ def recur_factorial(n):
         return n * recur_factorial(n-1)
 
 # this is test driver or code that plays when executed directly, versus import which will not run these statements
-def tester():
+def tester2():
     num = int(input("Enter a number for factorial: "))
     # check if the number is negative
     if num < 0:
         print("Sorry, factorial does not exist for negative numbers")
     else:
         print("The factorial of", num, "is", recur_factorial(num))
-tester()
+tester2()
 # Hack 3: Fibonacci.  Write a recursive program to create a fibonacci sequence including error handling for invalid input

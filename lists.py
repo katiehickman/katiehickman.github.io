@@ -23,7 +23,7 @@ InfoDb.append({
 # given an index this will print InfoDb content
 def print_data(n):
     print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])  # using comma puts space between values
-    print("\t", "Animals: ", end="")  # \t is a tab indent, end="" make sure no return occurs
+    print("\t", "Favorite Animals: ", end="")  # \t is a tab indent, end="" make sure no return occurs
     print(", ".join(InfoDb[n]["Favorite_Animals"]))  # join allows printing a string list with separator
     print()
 

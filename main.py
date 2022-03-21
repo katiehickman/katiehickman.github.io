@@ -9,7 +9,9 @@ sub_menu1 = [
     ["Swap", "python_challenges/swap.py"],
     ["Keypad", "python_challenges/keypad.py"],
     ["Christmas Tree", "python_challenges/christmas.py"],
+    ["Fibonacci", "python_challenges/fib.py"],
     ["Lists and Loops", "python_challenges/lists.py"],
+
 
 ]
 

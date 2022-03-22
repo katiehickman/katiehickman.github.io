@@ -148,3 +148,49 @@ A crowdsource idea could be determining the most popular school lunch food. I co
 **What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?**
 
 Yes, my final product could be better with crowdsourcing because I could get input from other students. I could also get ideas that I may have never been able to think of. 
+
+## 5.5
+### Notes
+- Legal and ethical concerns
+- - Intellectual property (IP)
+- - - A work of invention that is the result of creativity to which one has rights
+- - Copyright
+- - - Protects your IP and keeps anyone from using it, unless you give them your permission
+- - - Plagarism: presenting material as your own
+- - - Legal ways to use something not your own:
+- - - - Creative Commons
+- - - - - Provides free licenses that you can use to tell others how to use your creation
+- - - - - Clearly tells others what they can/cannot do with your IP
+- - - - Open source
+- - - - - Programs made freely available for anyone to use and may be redistributed and modified 
+- - - - Open access
+- - - - - Online research output free of any and all restrictions on access and free of many restrictions on use, such as copyright or license restrictions
+- - - - Digital divide: unequal distribution of access to technology
+
+### Questions
+**When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.**
+
+**Make a license for your personal and Team project. Document license you picked and why.**
+
+## 5.6
+### Notes
+- Personally Identifiable Information (PII)
+- Websites maintain a history of what you search
+- - Used to suggest other websites you may like or for targeted marketing
+- - Location may be collected
+- Risk to Privacy
+- - Information on the internet is hard to delete
+
+### Questions
+**Describe PII you have seen on project in CompSci Principles.**
+
+**What are your feelings about PII and your exposure?**
+
+**Describe good and bad passwords? What is another step that is used to assist in authentication.**
+
+**Try to describe Symmetric and Asymmetric encryption.**
+
+**Provide and example of encryption we used in deployment.**
+
+**Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.**
+

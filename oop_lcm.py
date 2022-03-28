@@ -18,16 +18,16 @@ def lcm_run():
     b = 200
     lcm = leastcm()
     result = lcm(a,b)
-    print("-"*45, "\nThe least common multiple of", a, "and", b, "is", result)
+    print("✨"*45, "\nThe least common multiple of", a, "and", b, "is", result)
 
     #second test
     a = 365
     b = 900
     result = lcm(a,b)
-    print("-"*45, "\nThe least common multiple of", a, "and", b, "is", result)
+    print("✨"*45, "\nThe least common multiple of", a, "and", b, "is", result)
 
     #third test
     a = 20
     b = 10
     result = lcm(a,b)
-    print("-"*45, "\nThe least common multiple of", a, "and", b, "is", result)
+    print("✨"*45, "\nThe least common multiple of", a, "and", b, "is", result)

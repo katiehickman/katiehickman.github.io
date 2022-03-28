@@ -32,7 +32,7 @@ sub_menu3 = [
 
 ]
 # Menu banner is typically defined by menu owner
-border = "\033[32m=\033[36m" * 25
+border = "\033[32m~\033[36m" * 25
 banner = f"\033[37m\n{border}\nPlease Pick An Option!\n{border}\033[37m"
 # def menu
 # using main_menu list:

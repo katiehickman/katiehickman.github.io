@@ -11,10 +11,10 @@ def findlcm(a,b):
 
 def lcm():
     #first test
-    print("The LCM of 100, 150 is", findlcm(100,150))
+    print("✨"*30, "The LCM of 100 and 150 is", findlcm(100,150))
 
     #second test
-    print("The LCM of 25, 60 is", findlcm(25,60))
+    print("✨"*30, "The LCM of 25 and 60 is", findlcm(25,60))
 
     #third test
-    print("The LCM of 5, 15 is", findlcm(5,15))
+    print("✨"*30, "The LCM of 5 and 15 is", findlcm(5,15))

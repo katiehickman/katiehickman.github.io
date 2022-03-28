@@ -32,14 +32,14 @@ sub_menu3 = [
 
 ]
 # Menu banner is typically defined by menu owner
-border = "=" * 25
-banner = f"\n{border}\nPlease Pick An Option!\n{border}"
+border = "\033[32m=\033[36m" * 25
+banner = f"\033[37m\n{border}\nPlease Pick An Option!\n{border}\033[37m"
 # def menu
 # using main_menu list:
 # 1. main menu and submenu reference are created [Prompts, Actions]
 # 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
 def menu():
-    title = "Function Menu" + banner
+    title = "\033[36mFunction Menu\033[36m" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Fun Functions", submenu1])
     menu_list.append(["Animations", submenu2])
@@ -73,7 +73,7 @@ def buildMenu(banner, options):
     for key, value in prompts.items():
         print(key, '->', value[0])
     # get user choice
-    choice = input("Input:")
+    choice = input("\033[36mInput:\033[36m")
     # validate choice and run
     # execute selection
     # convert to number

@@ -11,17 +11,17 @@ class factorial:
             return n * self(n-1)
 
     def print(self):
-        print("✨"*45, "\nSequence: \n", *self.factorial)
+        print("✨"*30, "\nSequence: \n", *self.factorial)
 
 def run_factorial():
     #first test
     n = 5
     facto = factorial()
     result = facto(n)
-    print("✨"*45, "\nThe factorial of", n, "is", result)
+    print("✨"*30, "\nThe factorial of", n, "is", result)
 
     #second test
     n = 10
     facto = factorial()
     result = facto(n)
-    print("-"*45, "\nThe factorial of", n, "is", result)
+    print("✨"*30, "\nThe factorial of", n, "is", result)

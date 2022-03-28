@@ -1,4 +1,7 @@
 import lists
+import imp_lcm
+import oop_lcm
+import oop_fact
 
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
@@ -11,6 +14,7 @@ sub_menu1 = [
     ["Swap", "python_challenges/swap.py"],
     ["Keypad", "python_challenges/keypad.py"],
     ["Christmas Tree", "python_challenges/christmas.py"],
+    ["Loops", lists.tester1],
 
 ]
 
@@ -23,7 +27,9 @@ sub_menu2 = [
 sub_menu3 = [
     ["100 Fibonacci", "python_challenges/fib.py"],
     ["Factorial", lists.tester2],
-    ["Loops", lists.tester1],
+    ["OOP Factorial", oop_fact.run_factorial],
+    ["OOP LCM", oop_lcm.lcm_run],
+    ["Imperative LCM", imp_lcm.lcm],
 
 ]
 # Menu banner is typically defined by menu owner
@@ -38,7 +44,7 @@ def menu():
     menu_list = main_menu.copy()
     menu_list.append(["Fun Functions", submenu1])
     menu_list.append(["Animations", submenu2])
-    menu_list.append(["Lists and Loops", submenu3])
+    menu_list.append(["Math", submenu3])
     buildMenu(title, menu_list)
 
 # def submenu

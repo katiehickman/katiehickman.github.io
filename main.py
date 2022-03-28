@@ -1,7 +1,6 @@
-import lists
-import imp_lcm
-import oop_lcm
-import oop_fact
+# imports
+from python.week_1 import lists
+from python.week_2 import imp_lcm, oop_lcm, oop_fact
 
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
@@ -11,21 +10,21 @@ main_menu = []
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu1 = [
-    ["Swap", "python_challenges/swap.py"],
-    ["Keypad", "python_challenges/keypad.py"],
-    ["Christmas Tree", "python_challenges/christmas.py"],
+    ["Swap", "python/week_0/swap.py"],
+    ["Keypad", "python/week_0/keypad.py"],
+    ["Christmas Tree", "python/week_0/christmas.py"],
     ["Loops", lists.tester1],
 
 ]
 
 sub_menu2 = [
-    ["Cat", "python_challenges/cat.py"],
-    ["Ship", "python_challenges/ship.py"],
+    ["Cat", "python/week_0/cat.py"],
+    ["Ship", "python/week_0/ship.py"],
 
 ]
 
 sub_menu3 = [
-    ["100 Fibonacci", "python_challenges/fib.py"],
+    ["100 Fibonacci", "python/week_1/fib.py"],
     ["Factorial", lists.tester2],
     ["OOP Factorial", oop_fact.run_factorial],
     ["OOP LCM", oop_lcm.lcm_run],

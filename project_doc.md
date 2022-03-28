@@ -10,6 +10,118 @@
 
 
 ## Code Snippets 
+### OOP LCM
+```
+# this class needs no init like the factorial because of no defined properties :)
+
+class leastcm:
+    def __call__(self, a, b):
+        if (a > b):
+            maximum = a
+        else:
+            maximum = b
+        while (True):
+            if (maximum % a == 0 and maximum % b == 0):
+                break
+            maximum = maximum + 1
+        return maximum
+
+def lcm_run():
+    #first test
+    a = 100
+    b = 200
+    lcm = leastcm()
+    result = lcm(a,b)
+    print("✨"*30, "\nThe LCM of", a, "and", b, "is", result)
+
+    #second test
+    a = 365
+    b = 900
+    result = lcm(a,b)
+    print("✨"*30, "\nThe LCM of", a, "and", b, "is", result)
+
+    #third test
+    a = 20
+    b = 10
+    result = lcm(a,b)
+    print("✨"*30, "\nThe LCM of", a, "and", b, "is", result)
+
+```
+
+### Imperative LCM
+```
+def findlcm(a,b):
+    if (a > b):
+        maximum = a
+    else:
+        maximum = b
+    while (True):
+        if (maximum % a == 0 and maximum % b == 0):
+            break
+        maximum = maximum + 1
+    return maximum
+
+def lcm():
+    #first test
+    print("✨"*30, "\nThe LCM of 100 and 150 is", findlcm(100,150))
+
+    #second test
+    print("✨"*30, "\nThe LCM of 25 and 60 is", findlcm(25,60))
+
+    #third test
+    print("✨"*30, "\nThe LCM of 5 and 15 is", findlcm(5,15))
+```
+
+### OOP Factorial
+```
+class factorial:
+    def __init__(self):
+        self.factorial = []
+
+    def __call__(self,n):
+        if n == 1 or n == 0:
+            self.print()
+            return 1
+        else:
+            self.factorial.append(n)
+            return n * self(n-1)
+
+    def print(self):
+        print("✨"*30, "\nSequence: \n", *self.factorial)
+
+def run_factorial():
+    #first test
+    n = 5
+    facto = factorial()
+    result = facto(n)
+    print("✨"*30, "\nThe factorial of", n, "is", result)
+
+    #second test
+    n = 10
+    facto = factorial()
+    result = facto(n)
+    print("✨"*30, "\nThe factorial of", n, "is", result)
+```
+
+### Imperative Factorial
+```
+# Factorial of a number using recursion
+def recur_factorial(n):
+    if n == 1 or n == 0:
+        return 1
+    else:
+        return n * recur_factorial(n-1)
+
+# this is test driver or code that plays when executed directly, versus import which will not run these statements
+def tester2():
+    num = int(input("Enter a number for factorial: "))
+    # check if the number is negative
+    if num < 0:
+        print("Sorry, factorial does not exist for negative numbers")
+    else:
+        print("The factorial of", num, "is", recur_factorial(num))
+```
+
 ### Fibonacci 
 ```
 def fibo(a):

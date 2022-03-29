@@ -105,9 +105,9 @@ img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="
                             <button onclick="toggle()">Grayscale!</button>
 ```
 
-### Full rgb.html File Code: https://github.com/Tyler929/WalkieTalkies/blob/main/templates/rgb.html
+### [Full rgb.html File Code](https://github.com/Tyler929/WalkieTalkies/blob/main/templates/rgb.html)
 
-### Full image.py File Code: https://github.com/Tyler929/WalkieTalkies/blob/main/image.py
+### [Full image.py File Code](https://github.com/Tyler929/WalkieTalkies/blob/main/image.py)
 
 ### App Route in [main.py](https://github.com/Tyler929/WalkieTalkies/blob/main/main.py) Code:
 ```

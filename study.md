@@ -3,12 +3,12 @@
 # TPT 
 
 ## Table of Contents
-### [5.1](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#51)
-### [5.2](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#52)
-### [5.3](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#53)
-### [5.4](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#54)
-### [5.5](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#55)
-### [5.6](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#56)
+### [5.1](#5.1)
+### [5.2](#5.2)
+### [5.3](#5.3)
+### [5.4](#5.4)
+### [5.5](#5.5)
+### [5.6](#5.6)
 
 ## 5.1 
 ### Notes

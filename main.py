@@ -1,6 +1,7 @@
 # imports
+from python.week_0 import christmastree
 from python.week_1 import lists
-from python.week_2 import imp_lcm, oop_lcm, oop_fact
+from python.week_2 import imp_lcm, oop_lcm, oop_fact, palindrome
 
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
@@ -13,7 +14,10 @@ sub_menu1 = [
     ["Swap", "python/week_0/swap.py"],
     ["Keypad", "python/week_0/keypad.py"],
     ["Christmas Tree", "python/week_0/christmas.py"],
+    ["Christmas Tree With Extra Functionalities", christmastree.options],
     ["Loops", lists.tester1],
+    ["Palindrome Tester", palindrome.test],
+    ["Palindrome Input", palindrome.run],
 
 ]
 

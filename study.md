@@ -1,6 +1,15 @@
 {% include navigation.html %}
 
 # TPT 
+
+## Table of Contents
+### [5.1](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#51)
+### [5.2](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#52)
+### [5.3](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#53)
+### [5.4](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#54)
+### [5.5](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#55)
+### [5.6](https://github.com/katiehickman/katiehickman.github.io/edit/main/study.md#56)
+
 ## 5.1 
 ### Notes
 - Wii came before the iPhone and they both have accelerometers in them

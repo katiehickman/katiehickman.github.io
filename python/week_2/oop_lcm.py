@@ -2,7 +2,8 @@
 
 class leastcm:
     def __call__(self, a, b):
-        if (a > b):
+      # conditional
+        if (a > b): # a is greater than b
             maximum = a
         else:
             maximum = b

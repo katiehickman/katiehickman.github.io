@@ -1,8 +1,11 @@
+#class
 class factorial:
+  #__init__
     def __init__(self):
-        self.factorial = []
+        self.factorial = [] 
 
     def __call__(self,n):
+      #conditional
         if n == 1 or n == 0:
             self.print()
             return 1

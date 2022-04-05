@@ -2,6 +2,8 @@
 
 InfoDb = []
 # List with dictionary records placed in a list
+# I chose to do favorite animals, which aree seen in the dictonary below
+# my favorite animals
 InfoDb.append({
     "FirstName": "Katie",
     "LastName": "Hickman",
@@ -10,7 +12,7 @@ InfoDb.append({
     "Email": "katie.hickman2704@gmail.com",
     "Favorite_Animals":["Cat","Seal","Panther", "Polar Bear"]
 })
-
+# second person's favorite animals
 InfoDb.append({
     "FirstName": "Nadira",
     "LastName": "Haddach",

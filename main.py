@@ -10,6 +10,7 @@ main_menu = []
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
+# fun functions submenu with crossover additions
 sub_menu1 = [
     ["Swap", "python/week_0/swap.py"],
     ["Keypad", "python/week_0/keypad.py"],
@@ -20,13 +21,13 @@ sub_menu1 = [
     ["Palindrome Input", palindrome.run],
 
 ]
-
+# animations submenu
 sub_menu2 = [
     ["Cat", "python/week_0/cat.py"],
     ["Ship", "python/week_0/ship.py"],
 
 ]
-
+# math submenu
 sub_menu3 = [
     ["100 Fibonacci", "python/week_1/fib.py"],
     ["Factorial", lists.tester2],

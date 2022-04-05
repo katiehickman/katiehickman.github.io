@@ -20,10 +20,12 @@ img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="
                             <p hidden id="img_orig{{loop.index}}">{{image.base64}}</p>
                             <button onclick="toggle()">Grayscale!</button>
 ```
+
 ```
 <p hidden id="img_pink{{loop.index}}">{{image.base64_PINK}}</p>
                             <button id="pinkbutton{{loop.index}}" onclick="pinkScale({{loop.index}})">Pinkscale!</button>
 ```
+
 ```
 <p hidden id="img_gray{{loop.index}}">{{image.base64_GRAY}}</p>
                             <button onclick="toggle()">Back to original :)</button>

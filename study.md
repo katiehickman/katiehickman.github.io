@@ -1,6 +1,23 @@
 {% include navigation.html %}
 
 # TPT 
+## Overall Study Plan for the AP Exam
+### Main points
+1) Seek help by asking questions
+2) Review all CollegeBoard notes I've taken so far from all trimesters
+3) Review all CollegeBoard exams/quizzes I've taken so far from all trimesters
+
+### Daily Plan
+**Monday:** Watch a lecture video on CollegeBoard (start at unit one day 1 and so forth)
+
+**Tuesday:** In class MCQ
+
+**Wednesday:** Watch a lecture video on CollegeBoard (start at unit one day 1 and so forth)
+
+**Thursday:** In class MCQ
+
+**Friday:** Review past CollegeBoard assessments (start at the first one and so forth)
+
 
 ## Table of Contents
 ### [5.1](#51)

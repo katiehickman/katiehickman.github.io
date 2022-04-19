@@ -18,14 +18,9 @@
 
 **Friday:** Review past CollegeBoard assessments (start at the first one and so forth)
 
+<br>
 
-## Table of Contents
-### [5.1](#51)
-### [5.2](#52)
-### [5.3](#53)
-### [5.4](#54)
-### [5.5](#55)
-### [5.6](#56)
+## Topics
 
 ## 5.1 
 ### Notes

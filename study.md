@@ -47,7 +47,7 @@
 | Question #    | Problem   | Correction |
 | ------------- | ------------- | --------| 
 | 35 | <img width="850" alt="Screen Shot 2022-04-24 at 4 29 50 PM" src="https://user-images.githubusercontent.com/89223621/165001141-809c7bad-6d89-49a6-8b30-9f70cd65509a.png"> | Correct Answer: C. Overflow errors occur when an arithmetic operation results in a value outside the range of numbers that can be represented by a fixed number of bits. |
-| 26 | <img width="826" alt="Screen Shot 2022-04-24 at 4 30 21 PM" src="https://user-images.githubusercontent.com/89223621/165001161-9ea4fedd-cd3f-45ae-8826-625285c22760.png"> | Correct Answer: D. The average total points earned per student can be determined using the result of the total points calculation for each student. The average increase in total points per student as a result of the score replacement policy can be determined by calculating the differences between each student score before and after the replacement policy was applied. |
+| 50 | <img width="826" alt="Screen Shot 2022-04-24 at 4 30 21 PM" src="https://user-images.githubusercontent.com/89223621/165001161-9ea4fedd-cd3f-45ae-8826-625285c22760.png"> | Correct Answer: D. The average total points earned per student can be determined using the result of the total points calculation for each student. The average increase in total points per student as a result of the score replacement policy can be determined by calculating the differences between each student score before and after the replacement policy was applied. |
 
 
 ## Topics

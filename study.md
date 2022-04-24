@@ -33,6 +33,7 @@
 ## Quiz Corrections
 
 ### Finals Quiz 1 
+
 | Question #    | Problem   | Correction |
 | ------------- | ------------- | --------| 
 | 23 |<img width="1087" alt="Screen Shot 2022-04-24 at 4 18 56 PM" src="https://user-images.githubusercontent.com/89223621/165000821-5d51b4dd-fcab-4199-9e5a-a5a13be03c13.png"> | Correct Answer: A. The aggregation of information in browser cookies can be used by websites that the user visits to track the user and collect information about the user. |
@@ -42,6 +43,7 @@
 | 48 | <img width="843" alt="Screen Shot 2022-04-24 at 4 27 55 PM" src="https://user-images.githubusercontent.com/89223621/165001083-fd6db08a-ee68-4cb7-9c50-4f5c3c70efff.png"> | Correct Answer: A. Removing the connections between C and F and between F and H will prevent devices A and F from communicating.|
 
 ### Finals Quiz 2
+
 | Question #    | Problem   | Correction |
 | ------------- | ------------- | --------| 
 | 35 | <img width="850" alt="Screen Shot 2022-04-24 at 4 29 50 PM" src="https://user-images.githubusercontent.com/89223621/165001141-809c7bad-6d89-49a6-8b30-9f70cd65509a.png"> | Correct Answer: C. Overflow errors occur when an arithmetic operation results in a value outside the range of numbers that can be represented by a fixed number of bits. |

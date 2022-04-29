@@ -49,6 +49,18 @@
 | 35 | <img width="850" alt="Screen Shot 2022-04-24 at 4 29 50 PM" src="https://user-images.githubusercontent.com/89223621/165001141-809c7bad-6d89-49a6-8b30-9f70cd65509a.png"> | Correct Answer: C. Overflow errors occur when an arithmetic operation results in a value outside the range of numbers that can be represented by a fixed number of bits. |
 | 50 | <img width="826" alt="Screen Shot 2022-04-24 at 4 30 21 PM" src="https://user-images.githubusercontent.com/89223621/165001161-9ea4fedd-cd3f-45ae-8826-625285c22760.png"> | Correct Answer: D. The average total points earned per student can be determined using the result of the total points calculation for each student. The average increase in total points per student as a result of the score replacement policy can be determined by calculating the differences between each student score before and after the replacement policy was applied. |
 
+### Finals Quiz 3
+
+| Question #    | Problem   | Correction |
+| ------------- | ------------- | --------| 
+| 23 | <img width="1109" alt="Screen Shot 2022-04-28 at 12 08 04 PM" src="https://user-images.githubusercontent.com/89223621/165829935-4ee0ddb9-e5c2-4e30-874f-164770d5888c.png"> | Correct Answer: D. The average number of characters per message appears to decrease after the mobile app was released. |
+| 24 |<img width="809" alt="Screen Shot 2022-04-28 at 9 13 08 PM" src="https://user-images.githubusercontent.com/89223621/165884344-32ff4c43-20fd-4ace-82e8-4faa8d3b34e0.png"> | Correct Answer: D. The algorithm continues past the first check if the time is during business hours, the algorithm continues past the second check if the gate sensor is activated, and the algorithm continues past the third check if the gate is not open. Performing the checks in this order will ensure that the gate is opened only under the appropriate conditions. |
+| 25 |  <img width="796" alt="Screen Shot 2022-04-28 at 9 13 46 PM" src="https://user-images.githubusercontent.com/89223621/165884400-d97ce275-7be2-4ad4-ac9f-5dc7a222cfe0.png">| Correct Answer: B. Devices B and C must be completely cut off from each other for them to no longer communicate. Removing any three connections will not prevent devices B and C from communicating. However, if connections B-A, B-D, B-E, and B-G are removed (or C-A, C-D, C-F, and C-I), then devices B and C can no longer communicate. |
+| 28 | <img width="787" alt="Screen Shot 2022-04-28 at 9 14 29 PM" src="https://user-images.githubusercontent.com/89223621/165884432-590ae5f9-a236-4eb1-9b3f-cf7d111477dd.png"> | Correct Answer: C. From years 1 to 5, the number of registered users roughly doubled each year. From years 5 to 8, the number of registered users increased by about 100 million each year. |
+| 35 | <img width="788" alt="Screen Shot 2022-04-28 at 9 15 06 PM" src="https://user-images.githubusercontent.com/89223621/165884477-29fa6c91-4d3c-46eb-bab7-5e66525bf7c9.png"> | Correct Answer: D. If the album was purchased and downloaded through a licensed music store, the user will not be in violation of the DMCA. |
+| 50 | <img width="735" alt="Screen Shot 2022-04-28 at 9 15 51 PM" src="https://user-images.githubusercontent.com/89223621/165884547-4f722261-b22d-42b8-9b8c-59edbd6d8bf7.png"> | Correct Answer: A. The variable first is initially assigned the value 100 and the variable second is initially assigned the value 200. Next, temp is assigned the value of first, which is 100. Next, second is assigned the value of temp, which is 100. Last, first is assigned the value of second, which is 100. After execution, both first and second have the value 100. |
+
+
 
 ## Topics
 

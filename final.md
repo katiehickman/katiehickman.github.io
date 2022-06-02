@@ -13,14 +13,17 @@
 </p>
 
 ## 20 Points - Meeting Tech Guidelines
-### [Individual Assignments and Completion](https://github.com/nadirahaddach/TheSlayers.github.io/issues/8)
+[Individual Assignments and Completion](https://github.com/nadirahaddach/TheSlayers.github.io/issues/8)
 
 [1 minute commercial video on project (advertise your accomplishments)]()
 
 ## 5 Points: Meeting new tech requirements**
 [Database with multiple tables](https://github.com/AkhilNandhakumar/Guython/tree/main/cruddy)
+
 [Authentication and authorization controls](https://github.com/AkhilNandhakumar/Guython/tree/main/cruddy)
+
 [Meaningful Capture (ex: notes/upload and associated tables)](https://katiehickman.github.io/)
+
 [Creativity and applications of new Tech feature features to Sponsor Project](https://github.com/AkhilNandhakumar/Guython/tree/main/notey)
 
 

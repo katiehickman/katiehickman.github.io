@@ -1,16 +1,16 @@
 1 minute commercial video on Sponsor Project (advertise your accomplishments). Due Wednesday 6/1 at 6:00PM
 
 **5 points PBL Final Seed :**
-
 _Attendance at N@TM and Involvement Pictures!_
 
-![IMG_9227](https://user-images.githubusercontent.com/89223621/171721919-a659873f-3c9d-4151-b882-c5c46dbed5c8.jpg)
+<img width="382" src="https://user-images.githubusercontent.com/89223621/171721919-a659873f-3c9d-4151-b882-c5c46dbed5c8.jpg">
 
-![IMG_9230](https://user-images.githubusercontent.com/89223621/171721937-ee1ca5e3-4b86-4f83-9087-39f5762b72ba.jpg)
+<img width="382" src="https://user-images.githubusercontent.com/89223621/171721937-ee1ca5e3-4b86-4f83-9087-39f5762b72ba.jpg">
 
-![IMG_9232](https://user-images.githubusercontent.com/89223621/171721946-1e5f8efd-7565-4307-918d-22968cff7eca.jpg)
+<img width="382" src="https://user-images.githubusercontent.com/89223621/171721946-1e5f8efd-7565-4307-918d-22968cff7eca.jpg">
 
-![IMG_9234](https://user-images.githubusercontent.com/89223621/171721961-1f934f48-1d6a-4804-8032-9cefcdbd0c31.jpg)
+<img width="382" src="https://user-images.githubusercontent.com/89223621/171721961-1f934f48-1d6a-4804-8032-9cefcdbd0c31.jpg">
+
 
 **20 Points - Meeting Tech Guidelines**
 

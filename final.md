@@ -17,7 +17,7 @@
 
 [1 minute commercial video on project (advertise your accomplishments)]()
 
-## 5 Points: Meeting new tech requirements**
+## 5 Points: Meeting new tech requirements
 [Database with multiple tables](https://github.com/AkhilNandhakumar/Guython/tree/main/cruddy)
 
 [Authentication and authorization controls](https://github.com/AkhilNandhakumar/Guython/tree/main/cruddy)
@@ -29,10 +29,17 @@
 
 ## 5 Points: Teacher Final Assessment
 Documentation of Individual Tech Requirements (GitHub Pages)
+
 Showing Success/Achievement
+
 Self Grade Assessment (Total: Individual and Team)
+
 Documentation of Project, Meeting Tech Guidelines (GitHub Pages)
-Showing Engagement (Tickets, Scrum Board)
-Maintaining Master Plan,
+
+Showing Engagement (Tickets, Scrum Board): [Slayers Scrum Board](https://github.com/nadirahaddach/TheSlayers.github.io/projects/1) and [Guython Scrum Board](https://github.com/AkhilNandhakumar/Guython/projects/1)
+
+Maintaining Master Plan
+
 Sponsor Assessment (GitHub Pages)
+
 Team Assessment (Team Score)

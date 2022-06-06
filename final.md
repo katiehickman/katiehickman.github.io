@@ -32,7 +32,7 @@ Documentation of Individual Tech Requirements (GitHub Pages)
 
 Showing Success/Achievement
 
-Self Grade Assessment (Total: Individual and Team)
+[Self Grade Assessment (Total: Individual and Team](https://github.com/katiehickman/katiehickman.github.io/issues/9)
 
 Documentation of Project, Meeting Tech Guidelines (GitHub Pages)
 

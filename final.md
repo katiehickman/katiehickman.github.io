@@ -1,4 +1,5 @@
 # Katie's Final PBL through N@Tm
+[Final Review Ticket](https://github.com/katiehickman/katiehickman.github.io/issues/9)
 
 ## 5 points PBL Final Seed
 ### Attendance at N@TM and Involvement Pictures!
@@ -15,7 +16,7 @@
 ## 20 Points - Meeting Tech Guidelines
 [Individual Assignments and Completion](https://github.com/nadirahaddach/TheSlayers.github.io/issues/8)
 
-[1 minute commercial video on project (advertise your accomplishments)]()
+[1 minute commercial video on project (advertise your accomplishments)](https://drive.google.com/file/d/10zLXmJaRaMkXvpaHGZdi866se8krEf4u/view)
 
 ## 5 Points: Meeting new tech requirements
 [Database with multiple tables](https://github.com/AkhilNandhakumar/Guython/tree/main/cruddy)
